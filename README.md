@@ -1,0 +1,2 @@
+# prbot
+Helps managing PRs
